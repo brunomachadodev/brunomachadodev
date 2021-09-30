@@ -1,6 +1,8 @@
 ## Hey! I'm Bruno 👋
 
-I work as a front-end developer, always looking to expand my knowledge 😃
+I work as a JavaScript full stack developer, always looking to expand my knowledge 😃
+
+Currently working with Adonis JS as Node main framework. ⚡⚡⚡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomachado29/)](https://www.linkedin.com/in/brunomachado29/)
 
