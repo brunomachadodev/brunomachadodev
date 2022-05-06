@@ -1,8 +1,8 @@
 ## Hey! I'm Bruno 👋
 
-I work as a JavaScript full stack developer, always looking to expand my knowledge 😃
+I work as a JavaScript full stack developer, always looking to expand my horizons 😃
 
-Currently working with Adonis JS as Node main framework. ⚡⚡⚡
+Experienced with AdonisJS and currently working with NestJS as Node main framework. Also React enthusiast ⚡⚡⚡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomachado29/)](https://www.linkedin.com/in/brunomachado29/)
 
