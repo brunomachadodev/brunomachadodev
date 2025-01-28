@@ -6,8 +6,6 @@ I'm a **Full Stack Developer** passionate about building high-performance applic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomachado29/)](https://www.linkedin.com/in/brunomachado29/)
 
----
-
 ## 🛠️ My Tech Stack
 
 ### **Frontend Development**
@@ -34,21 +32,14 @@ I'm a **Full Stack Developer** passionate about building high-performance applic
 ![WSL2](https://img.shields.io/badge/WSL2-0a97f5?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
----
-
 ## 🌱 What I'm Learning
 
 I believe that staying ahead means constantly learning. Right now, I'm diving into:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
----
-
 ## 📫 Get in Touch
 Feel free to connect with me on LinkedIn or reach out for collaborations, discussions, or just to say hi! I'm always happy to chat about tech, ideas, or opportunities. 
 
----
-
-### ⚡ Fun Fact:
+### ⚡ Fun Fact
 - I enjoy exploring **DevOps best practices** as much as writing clean, scalable code.
 - My preferred OS? **Zorin**, of course. 🐧
