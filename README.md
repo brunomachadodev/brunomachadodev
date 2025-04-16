@@ -42,4 +42,4 @@ Feel free to connect with me on LinkedIn or reach out for collaborations, discus
 
 ### ⚡ Fun Fact
 - I enjoy exploring **DevOps best practices** as much as writing clean, scalable code.
-- My preferred OS? **Zorin**, of course. 🐧
+- **Zorin** and **Fedora** are my favorite distros. 🐧
